@@ -1,6 +1,7 @@
 # UCS Universe
 
 <h2>Dependencies:</h2>
+<a href="https://github.com/sarbian/ModuleManager">Module Manager</a>
 <a href="https://github.com/PromisedWorlds/PromisedWorlds">PromisedWorlds Debdeb</a> <br>
 <a href="https://github.com/PromisedWorlds/PromisedWorlds">PromisedWorlds Tunn</a> <br>
 <a href="https://github.com/strandedkerbal/Almajara">Almajara</a> (all packs except StockRevamp and OuterPlanets) <br>
